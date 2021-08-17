@@ -9,6 +9,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
+ ## Stats
  ![Bishoy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bishoy-Samwel&show_icons=true&locale=en&theme=tokyonight)
+ ## Commit Streak
 [![Bishoy's GitHub commit streak](https://github-readme-streak-stats.herokuapp.com/?user=Bishoy-Samwel&theme=tokyonight)](https://git.io/streak-stats)
+ ## Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Bishoy-Samwel&show_icons=true&locale=en&layout=compact&theme=tokyonight)
