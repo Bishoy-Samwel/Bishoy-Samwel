@@ -11,7 +11,6 @@
  -->
  ## Statistics
  ![Bishoy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bishoy-Samwel&show_icons=true&locale=en&theme=tokyonight)
-[![Bishoy's GitHub commit streak](https://github-readme-streak-stats.herokuapp.com/?user=Bishoy-Samwel&theme=tokyonight)](https://git.io/streak-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Bishoy-Samwel&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
 Currently studying as an international programmer in [Microverse](https://www.microverse.org/?grsf=fds6ce)
