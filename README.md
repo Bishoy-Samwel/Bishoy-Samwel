@@ -10,7 +10,4 @@
 - ⚡ Fun fact: I can play Table tennis for 3 hours/day and 100 chess match/day
 
 
- ![Bishoy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bishoy-Samwel&show_icons=true&locale=en&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Bishoy-Samwel&show_icons=true&locale=en&layout=compact&theme=tokyonight)
-
 Currently studying as an international programmer in [Microverse](https://www.microverse.org/?grsf=fds6ce)
