@@ -1,10 +1,9 @@
 ### Hi there 👋, I'm Bishoy 
 
-- 🔭 I’m currently working Spotify Clone
-- 🌱 I’m currently learning  NextJS
-- 👯 I’m looking to collaborate on a Ruby on Rails Project
-<!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about React, Rails, Chess, Diet
+- 🔭 I’m currently working on: Spotify Clone
+- 🌱 I’m currently learning: TypeScript, ReduxToolKit, NextJS
+- 👯 I’m looking to collaborate on: a Ruby on Rails Project
+- 💬 Ask me about: React, Rails, Chess, Diet, Workout Routine
 - 📫 How to reach me: bishoy.samwuel@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can play Table tennis for 3 hours/day and 100 chess match/day
