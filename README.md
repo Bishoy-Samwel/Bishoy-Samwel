@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Bishoy 
 
-- 🔭 I’m currently working on: Spotify Clone
+//- 🔭 I’m currently working on: Spotify Clone
 - 🌱 I’m currently learning: TypeScript, ReduxToolKit, NextJS
 - 👯 I’m looking to collaborate on: a Ruby on Rails Project
 - 💬 Ask me about: React, Rails, Chess, Diet, Workout Routine
