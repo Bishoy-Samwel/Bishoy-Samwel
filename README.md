@@ -8,5 +8,4 @@
 - ⚡ Fun fact: I can play Table tennis for 3 hours/day and 100 chess match/day
 - 📖 Currently I'm reading: The Art of Learning - Josh Waitzkin
 
-
-Currently studying as an international programmer in [Microverse](https://www.microverse.org/?grsf=fds6ce)
+[Microverse](https://www.microverse.org/?grsf=fds6ce)
