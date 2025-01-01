@@ -8,4 +8,3 @@
 - 🦆 Fun fact: If it looks like a duck, and it quacks like a duck, it’s probably a duck. 
 - 📖 Currently I'm reading: The Art of Learning - Josh Waitzkin
 
-[Microverse](https://www.microverse.org/?grsf=fds6ce)
